@@ -32,12 +32,11 @@ Il n'est pas terminé et il est pour but éducatif.
 - Clique sur Project > Add > add project from disk ou add from repository
 - Clique le dossier INFO701_Unity
 - Ouvrir un projet et Unity fera générer les fichiers volumineuses
+- Ajoute du Asset > Scenes > Game dans hierarchy
 
 Si package non utilisé : 
 - Clique sur Assets  Import package > Custome Package...
 - Clique Pack.unitypackage
-
-- Ajoute du Asset > Scenes > Game dans hierarchy
 
 ### 4. Tester sur le mobile
 
