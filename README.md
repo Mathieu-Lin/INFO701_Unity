@@ -14,7 +14,7 @@ Il n'est pas terminé et il est pour but éducatif.
 
 ### 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/ton-compte/INFO701_Unity.git
+   git clone https://github.com/Mathieu-Lin/INFO701_Unity.git
    ```
 
 ### 2. Installer Unity 
